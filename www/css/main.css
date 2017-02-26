@@ -1,0 +1,22 @@
+.borde { border-radius:5px;border:1px solid #838383;padding:4px 8px; }
+
+.boton_accion { 
+    background-image: url(../img/icon.png);
+    background-color: transparent; 
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: 1 px solid #000;
+    cursor: pointer;        
+    height: 38px;       
+    padding-left: 32px; 
+    vertical-align: middle;          
+}
+
+.captura {
+    height:42px;
+}
+
+.captura input {
+    line-height:32px;
+    width:90px;
+}
